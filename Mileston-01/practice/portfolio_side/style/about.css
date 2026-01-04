@@ -1,0 +1,74 @@
+.about_page{
+    width: 100%;
+    background-color: #ffffff;
+    height: 500px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.knowMeMore h1{
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+ .abtme{
+    text-align: center;
+    padding: 15px 30px;
+    
+ }
+ .abtme p{
+    background-color: #eee8aa;
+    display: inline;
+    padding: 5px 25px;
+    font-size: medium;
+ }
+
+.left_KnowMe{
+    vertical-align: middle;
+    width: 60%;
+    height: 250px;
+    display: inline-block;
+    margin-right: 5%;
+}
+.left_KnowMe h2, .right_KnowMe h2, .knowMeMore h1{
+    font-size: 30px;
+
+}
+
+.about_info{
+    margin-bottom: 20px;
+}
+
+
+.left_KnowMe p{
+    margin-top: 5px;
+    font-size:25px;
+    text-align: justify;
+}
+.right_KnowMe{
+    vertical-align: top;
+    width: 30%;
+    height: 250px;
+    display: inline-block;
+    margin-top: -20px;
+}
+.exprtis_yrs h1{
+    font-size: 130px;
+    text-align: center;
+    margin-bottom: -10px;
+}
+.right_KnowMe h2{
+    text-align: center;
+}
+
+/* .box_container{
+     background-color: aquamarine;
+     height: 100px; }
+*/
+.about_box{
+    width: 24.7%;
+    display: inline-block;
+}
+.about_box h4{
+    font-size: 20px;
+    margin-bottom: 5px;
+}

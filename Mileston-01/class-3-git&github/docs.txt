@@ -1,0 +1,9 @@
+Working area to stage in area
+
+=> git add --all  ==========both adds whole project. 
+=> git add -A 
+
+=> git add .    ========== it will add only inside this directory 
+
+=> git add *  ============only add new or modified file.
+

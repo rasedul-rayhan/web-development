@@ -1,0 +1,36 @@
+01
+-------
+HTML - Hyper text markup language
+introduce with VS code interface
+
+tags:
+<p></p> - paragraph 
+<i></i> - italic
+<b></b> - Bold
+
+semantic HTML
+---------------
+<em></em> - empathies 
+<strong></strong> - make a text strong
+h1, h2,h3,h4,h5,h6 - heading 
+
+
+------------
+what is inline and block element 
+
+-------
+list iteam - ul, ol, li 
+div - make container
+<br> - break line
+<button> - make a button 
+<a herf='' target=""> - hyper link  + target attribute 
+<img src="">  - image and source attribute
+
+form tags
+
+
+
+
+
+
+

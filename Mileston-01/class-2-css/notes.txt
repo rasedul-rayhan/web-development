@@ -1,0 +1,42 @@
+using type of css ====> inline css, internal css and external css
+
+selector ===> id and class, and element selector, universal selector 
+
+container elements ====> span, div
+
+how to use borders, margin,padding, css box model, attribute selector
+
+display properties, external css, box shadow, backgroud image
+
+
+
+grouping spector
+----------------
+suppose black and white tow class
+
+.black white{}
+
+h1 h2{
+	color: white;
+}
+
+<h1>this is something</h1>
+<h2>this is something</h2>
+
+
+
+=================================================
+
+Attribute select:
+css
+input[type="email"]{
+	color : puple;
+}
+
+
+html
+<input type="email" placeholder="xxxxx@x.com">
+
+
+
+

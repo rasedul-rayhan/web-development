@@ -1,0 +1,52 @@
+.myskills{
+    width: 100%;
+    height: 500px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 80px;
+    padding-top: 50px;
+}
+
+.left_skil{
+    width: 50%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+.right_skil{
+    margin-top: 30px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.right_skil img{
+    width: 400;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.nskil{
+    margin-bottom: 60%;
+}
+
+.left_skil li{
+    display: inline-block;
+    /* margin-right: 40%; */
+    padding-top: 20px;
+
+}
+.skilper{
+    margin-left: 58%;
+}
+.outaline{
+    width: 70%;
+    height: 10px;
+    background-color:rgb(239, 213, 183);
+    border-radius: 10px;
+    display: block;
+}
+.insida{
+    width: 60%;
+    height: 10px;
+    background-color:rgb(241, 234, 25);
+    border-radius: 10px;
+}
